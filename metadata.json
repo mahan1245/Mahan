@@ -1,0 +1,6 @@
+{
+  "name": "کنکور یار",
+  "description": "دستیار و برنامه‌ریز هوشمند کنکور ریاضی پایه دوازدهم با تبدیل خودکار برنامه مشاور توسط هوش مصنوعی، تایمر مطالعه زنده در نوار اعلان، تحلیل عملکرد و نتایج تست‌ها",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
